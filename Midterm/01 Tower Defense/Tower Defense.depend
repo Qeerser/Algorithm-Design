@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705985350 source:c:\users\user\documents\programming\algorithm design\tower defense\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
